@@ -14,7 +14,7 @@ spring:
 
 mssql-config:
   connection:
-    url: jdbc:sqlserver://localhost:1433;databaseName=query;username=sa;password=5Kn5F%ryzU
+    url: jdbc:sqlserver://localhost:1433;databaseName=atm;username=sa;password=a5Kn5F%ryzUtm
     timeout: 20000
     min-pool-size: 1
     max-pool-size: 5
